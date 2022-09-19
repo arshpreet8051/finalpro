@@ -1,5 +1,6 @@
 # Ms-Azure-Final-project
-This is my FRT Ms Azure Final project 
+This is my FRT Ms Azure Final project.
+I have made an platform to provide health related services to pet dogs. With this project I highlighted the problem of poor health standards of pet animals, specially dogs. So, my project tackles the problem of heath related risks and issues faced by pet dogs. my project also provides ideas for all dog's health care needs, from feeding and nutrition to common conditions and how to alleviate them. Therefore my project helps you to keep your dog healthy with some tips and treatment advice from my project.
 ## Azure Link:
 https://orange-sand-088c19010.1.azurestaticapps.net/
 # Sample Screenshots:
